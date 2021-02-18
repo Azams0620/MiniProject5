@@ -3,5 +3,8 @@ class Main {
     
   }
 
-  public 
+  public static void balance(double startMon, double hourlyPay, int weeklyHours){
+    
+
+  }
 }
